@@ -1,0 +1,35 @@
+
+div.divider{
+    margin:10px 0px 10px 0px!important;
+    min-height: 10px;
+}
+
+.divider.x2{
+    min-height: 20px;
+}
+
+.divider.x3{
+    min-height: 30px;
+}
+
+
+span.large{
+    font-size:20px;
+    font-weight: bold;
+    color:#FF1E60;
+    margin-left: 5px;
+}
+li.is-active.is-bold{
+    font-weight: 500;
+}
+
+
+a.is-bold{
+    font-weight: 500;
+}
+
+.main{
+    background-color: #ECF0F3;
+    min-height: 900px;
+  
+}
